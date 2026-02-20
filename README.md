@@ -10,7 +10,7 @@ This repository contains a Machine Learning model that predicts whether a movie 
 * **Accuracy:** Uses a Random Forest Classifier.
 * **Visuals:** Includes scatter plots for data analysis.
 
-## 💻 How to Run
+## 💻 How to Run this code
 1. Open the file `Movie_Predictor.ipynb`.
 2. Click the **"Open in Colab"** button.
 3. Run all cells and follow the interactive prompts at the bottom.
