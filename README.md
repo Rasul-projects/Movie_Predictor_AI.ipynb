@@ -6,12 +6,13 @@ An interactive AIML project to predict movie success using Random Forest. Built 
 ## 🚀 Overview
 This repository contains a Machine Learning model that predicts whether a movie will be a **HIT** or a **FLOP** based on its budget and popularity. 
 
-## 🛠️ Features
+## 🛠️ Features:-
+
 * **Interactive Mode:** Users can input their own movie details to get predictions.
 * **Accuracy:** Uses a Random Forest Classifier.
 * **Visuals:** Includes scatter plots for data analysis.
 
-## 💻 How to Run this code
+## 💻 How to Run this code:-
 1. Open the file `Movie_Predictor.ipynb`.
 2. Click the **"Open in Colab"** button.
 3. Run all cells and follow the interactive prompts at the bottom.
