@@ -3,7 +3,7 @@
 An interactive AIML project to predict movie success using Random Forest. Built for GSoC 2026 prep.
 # 🎬 Movie Success Predictor (AIML)
 
-## 🚀 Overview :--
+## 🚀 Overview :-
 This repository contains a Machine Learning model that predicts  whether a movie will be a **HIT** or a **FLOP** based on its budget and popularity. 
 
 ## 🛠️ Features:-
