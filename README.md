@@ -6,7 +6,7 @@ An interactive AIML project to predict movie success using Random Forest. Built 
 ## 🚀 Overview 
 This repository contains a Machine Learning model that predicts  whether a movie will be a **HIT** or a **FLOP** based on its budget and popularity. 
 
-## 🛠️ Features:
+## 🛠️ Features
 
 * **Interactive Mode:** Users can input their own movie details to get predictions.
 * **Accuracy:** Uses a Random Forest Classifier.
