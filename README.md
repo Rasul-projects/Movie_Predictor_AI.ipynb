@@ -18,5 +18,5 @@ This repository contains a Machine Learning model that predicts  whether a movie
 3. Run all cells and follow the interactive prompts at the bottom.
 
 # 🎯 Goal: GSoC 2026
-This project is part of my journey to contribute to open-source organizations in GSoC 2026.--
+This project is part of my journey to contribute to open-source organizations in GSoC 2026.-
 
