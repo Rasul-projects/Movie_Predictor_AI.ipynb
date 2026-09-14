@@ -1,4 +1,4 @@
-# Movie Success Predictor - Created for GSoC 2026 Prep    12345678
+# Movie Success Predictor - Created for GSoC 2026 Prep    1234567
 # Movie_Predictor_AI.ipynb
 An interactive AIML project to predict movie success using Random Forest. Built for GSoC 2026 preparation.
 # 🎬 Movie Success Predictor (AIML)
